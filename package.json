@@ -1,0 +1,24 @@
+{
+  "name": "geo-net-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnySaito/Geo-Net-2.git"
+  },
+  "keywords": [
+    "geonet",
+    "json",
+    "node"
+  ],
+  "author": "John B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnySaito/Geo-Net-2/issues"
+  },
+  "homepage": "https://github.com/JonnySaito/Geo-Net-2#readme"
+}
